@@ -18,7 +18,7 @@
     <sonar.projectKey>demo-maven-project</sonar.projectKey>
     <sonar.projectName>Demo Maven Project</sonar.projectName>
     <sonar.host.url>http://localhost:9000</sonar.host.url>
-    <sonar.login>YOUR_SONAR_TOKEN</sonar.login> <!-- Replace with actual token -->
+    <sonar.login>sqa_382fa05b656d8d5adad58f45c2755611774ed370</sonar.login> <!-- Replace with actual token -->
   </properties>
 
   <dependencies>
